@@ -1,0 +1,28 @@
+{
+  "name": "node-bucket",
+  "version": "1.0.0",
+  "description": "Listener for WebHooks from BitBucket",
+  "main": "hooklistener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevincollins7/node-bucket.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Bitbucket"
+  ],
+  "author": "Kevin Collins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevincollins7/node-bucket/issues"
+  },
+  "homepage": "https://github.com/kevincollins7/node-bucket#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
